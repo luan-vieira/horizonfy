@@ -22,7 +22,7 @@
 <p> Cliente HTTP: <a href="https://axios-http.com/docs/intro">Axios</a></p>
 <p> Biblioteca de interface (css): <a href="https://vuetifyjs.com/en/">Vuetify</a></p>
 
-<p>Use the application with vercel: <a href="https://contact-list-two-rust.vercel.app/">Contact List</a></p>
+<p>Use the application with vercel: <a href="https://horizonfy-two.vercel.app/main">Contact List</a></p>
 
 ## :pushpin: Installation
 
@@ -35,7 +35,7 @@ To load project dependencies.
 ### `npm install`
 
 Runs the app in the development mode.\
-Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+Open [http://localhost:5173](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
