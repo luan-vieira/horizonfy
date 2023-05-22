@@ -117,8 +117,6 @@
               store.dispatch('getToken')
                  
               const showTracks =(album_Id)=> {
-                  
-                  console.log(album_Id)
                   store.dispatch('getTracks', {
                   album_id:album_Id,
               })
